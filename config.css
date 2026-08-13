@@ -45,7 +45,7 @@ body {
     max-width: 1200px; 
     background: #050505; /* Um tom quase imperceptível acima do preto puro */
     box-shadow: 0 0 30px rgba(9, 54, 138, 0.808); /* Brilho suave */
-    position: middle;
+    position: center;
     }
 
         /* Efeito de Scanline (linhas de TV antiga) */
@@ -89,7 +89,6 @@ body {
         @keyframes blink { 0% { opacity: 0; } 50% { opacity: 1; } 100% { opacity: 0; } }
     footer {
     background: #000000; /* Mantém a continuidade do preto */
-    border-top: 1px solid rgba(212, 175, 55, 0.2);
     padding: 30px 0;
     width: 100%;
     text-align: center;
