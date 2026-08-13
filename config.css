@@ -42,10 +42,10 @@ body {
     border: 1px solid #041742e3; 
     padding: 100px; 
     width: 100%; 
-    max-width: 1200px; 
+    max-width: 1800px; 
     background: #050505; /* Um tom quase imperceptível acima do preto puro */
     box-shadow: 0 0 30px rgba(9, 54, 138, 0.808); /* Brilho suave */
-    position: center;
+    position: absolute;
     }
 
         /* Efeito de Scanline (linhas de TV antiga) */
